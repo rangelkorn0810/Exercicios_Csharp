@@ -1,0 +1,13 @@
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.exe
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.deps.json
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.json
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.runtimeconfig.dev.json
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\bin\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.dll
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.pdb
+C:\Users\carla\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.genruntimeconfig.cache
